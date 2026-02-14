@@ -4,6 +4,6 @@ Hands-on labs, reports and notes from my cybersecurity learning journey.
 
 ## Repository Overview
 
-![Repository Overview](images/repo-overview.png)
+<img src="images/repo-overview.png" width="700">
 
 ---
